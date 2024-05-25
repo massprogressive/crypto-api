@@ -27,4 +27,4 @@ Depens on organazing your spreadsheet modify `sheet.GetRange(`**`).SetValue(pric
 
 Click `Run`
 
-https://notes.own-vision.com
+https://notes.own-vision.com/managing-crypto-portfolio/
